@@ -1,6 +1,6 @@
 # BCB726: Machine Learning for Computational Biology. Fall 2026
 <p>
-  <img src="https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/bcb726.png" width="350" />
+  <img src="https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/bcb726-2026.png" width="350" />
 </p>
 
 # Course Information 
