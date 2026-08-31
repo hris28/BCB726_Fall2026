@@ -26,7 +26,7 @@ Lecture notes will be linked here on the day of the lecture.
 | Nov 3 | M  | Graph neural networks and applications for analyzing spatial data                                                                                                                          | Natalie       | [Lecture 5](https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/Lecture_Notes/Lecture5.pdf)
 | Nov 5 | W  |  Deep learning basics: training logistic regression with gradient descent, scaling it up into MLPs, adding spatial structure with CNNs | Alex   |  [Lecture 6 (notebook)](https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/Lecture_Notes/Lecture6.ipynb)
 | Nov 5 |   | Textbook deep learning lecture                                                                                                                          | Ran      | [Lecture x]()
-| Nov 10 | M | Generative Modeling and Diffusions  | Tarek | [Lecture 7]()
+| Nov 10 | M | Generative Modeling and Diffusions  | Tarek (Ian Thomas) | [Lecture 7]()
 | Nov 12 | W | Predicting viral vs. human protein sequences            | Alex          | [Lecture 8 (notebook)](https://modal.com/notebooks/iskandr/_/nb-OtxSj5ugii1xGIP49PKzsa)
 | Nov 17 | M |  Explainability, interpretability with Shapley values and LIME                  | Tarek  | [Lecture 9 ](https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/Lecture_Notes/xai_tmz.pdf)
 | Nov 19 | W | LLMs in biology                                                                 | Alex          |
