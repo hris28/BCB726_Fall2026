@@ -7,9 +7,10 @@
 * Class Dates: 5 week module during Fall 2025
 * Class Meeting Times: TBD Monday and Wednesday 
 * Class Meeting location: TBD Mary Ellen Jones Building
-* Dhuvi Office hours: TBD
+* Alice Office hours: TBD
 * Pre-requisites: BCB720 and programming in Python or R
-* Instructors: Natalie Stanley (natalies@cs.unc.edu) + Alex Rubinsteyn (alex.rubinsteyn@unc.edu)
+* Instructors: Tarek Zikry (tarek@unc.edu) + Natalie Stanley (natalies@cs.unc.edu) + Alex Rubinsteyn (alex.rubinsteyn@unc.edu) + Ran Zhang (ranzhang@unc.edu)
+* TA: Alice Zhang (yanruoz@email.unc.edu)
 
 # Course Description 
 Machine learning techniques are indispensable in biomedicine and healthcare as they allow us to gain mechanistic insights into biology or to create robust diagnostics to inform treatment decisions. This course will provide an overview of classical machine learning approaches and fundamental deep learning techniques that can be applied for robust, reproducible, and interpretable analysis of biological data. Topics covered include classical supervised and unsupervised learning, clustering, cross validation, deep learning fundamentals, explainable and interpretable machine learning, and avoiding common pitfalls involved with training and evaluating models. All concepts will be taught in a practical way to readily encourage implementation and application of methods to biological datasets. This 5 week module is meant to provide an overview of key machine learning topics that are most widely used in biology. 
@@ -21,11 +22,11 @@ Lecture notes will be linked here on the day of the lecture.
 | Oct 20 | M  | Introduction; supervised vs unsupervised learning ; loss functions; optimization basics, cross validation.                                                           | Natalie  -keep      | [Lecture 1](https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/Lecture_Notes/Lecture1.pdf)|
 | Oct 22 | W  | Statistics vs. Machine Learning; optimization for learning from data ; intro to modal     | Alex       | [Lecture 2](https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/Lecture_Notes/Lecture2.pdf)
 | Oct 27 | M  | supervised learning (logistic regression + naive bayes as examples) ; discriminative vs generative classification ;deriving a loss function from a likelihood ; learning with class imbalances ; preventing data leakage        | Natalie  -keep     | [Lecture 3](https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/Lecture_Notes/Lecture3.pdf)
-| Oct 29 | W  | Naiave bayes and unsupervised multiomics data integration via subspace merging                                                                                                                       | Natalie       | [Lecture 4](https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/Lecture_Notes/Lecture4.pdf)
+| Oct 29 | W  | Clustering and Unsupervised Validation                                                                                                                       | Tarek       | [Lecture 4]()
 | Nov 3 | M  | Graph neural networks and applications for analyzing spatial data                                                                                                                          | Natalie       | [Lecture 5](https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/Lecture_Notes/Lecture5.pdf)
 | Nov 5 | W  |  Deep learning basics: training logistic regression with gradient descent, scaling it up into MLPs, adding spatial structure with CNNs | Alex   |  [Lecture 6 (notebook)](https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/Lecture_Notes/Lecture6.ipynb)
-| Nov 5 |   | textbook deep learning lecture                                                                                                                          | Ran      | [Lecture x]()
-| Nov 10 | M | A Hitchhiker’s Guide to ML4Bio  | Dhuvi | [Lecture 7](https://docs.google.com/presentation/d/1TLgyWMNwBzZqpdSd0vrT_UNB22sANXIzBZADa7FImgw/edit?usp=sharing)
+| Nov 5 |   | Textbook deep learning lecture                                                                                                                          | Ran      | [Lecture x]()
+| Nov 10 | M | Generative Modeling and Diffusions  | Tarek | [Lecture 7]()
 | Nov 12 | W | Predicting viral vs. human protein sequences            | Alex          | [Lecture 8 (notebook)](https://modal.com/notebooks/iskandr/_/nb-OtxSj5ugii1xGIP49PKzsa)
 | Nov 17 | M |  Explainability, interpretability with Shapley values and LIME                  | Tarek Zikry  | [Lecture 9 ](https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/Lecture_Notes/xai_tmz.pdf)
 | Nov 19 | W | LLMs in biology                                                                 | Alex          |
@@ -33,7 +34,7 @@ Lecture notes will be linked here on the day of the lecture.
 Of course the schedule is subject to change! 
 
 # Books and Resources
-Textbooks and resources that Natalie & Alex have enjoyed and which you might also find useful: 
+Textbooks and resources that we have enjoyed and which you might also find useful: 
 * [Probabilistic Machine Learning by Kevin Murphy](https://probml.github.io/pml-book/book1.html)
 * [Interpretable Machine Learning: A Guide for making black box models explainable](https://christophm.github.io/interpretable-ml-book/)
 * [The Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf) 
@@ -42,7 +43,7 @@ Textbooks and resources that Natalie & Alex have enjoyed and which you might als
 
 
 # Frequently asked questions
-Please contact Natalie Stanley (natalies@cs.unc.edu) with any questions and I will post common questions here. 
+Please contact Tarek Zikry (tarek@unc.edu) with any questions and I will post common questions here. 
 
 * Q : Will there be a virtual or hybrid option? --> A : Unfortunately not. All lecture notes will be available online and I am happy to meet with you to discuss lecture materials but I find that hybrid class sessions are difficult to run smoothly.
 * Q : Can I audit the course? --> A: Absolutely! Everyone is welcome. You don't need to officially ask permission.
