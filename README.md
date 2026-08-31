@@ -5,8 +5,8 @@
 
 # Course Information 
 * Class Dates: 5 week module during Fall 2025
-* Class Meeting Times: TBD Monday and Wednesday 
-* Class Meeting location: TBD Mary Ellen Jones Building
+* Class Meeting Times: 11-12:15 Monday and Wednesday 
+* Class Meeting location: Marsico 2004
 * Alice Office hours: TBD
 * Pre-requisites: BCB720 and programming in Python or R
 * Instructors: Tarek Zikry (tarek@unc.edu) + Natalie Stanley (natalies@cs.unc.edu) + Alex Rubinsteyn (alex.rubinsteyn@unc.edu) + Ran Zhang (ranzhang@unc.edu)
