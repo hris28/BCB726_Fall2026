@@ -4,7 +4,7 @@
 </p>
 
 # Course Information 
-* Class Dates: 5 week module during Fall 2025
+* Class Dates: 5 week module during Fall 2026
 * Class Meeting Times: 11-12:15 Monday and Wednesday 
 * Class Meeting location: Marsico 2004
 * Alice Office hours: TBD
