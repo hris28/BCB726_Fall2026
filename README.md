@@ -7,10 +7,9 @@
 * Class Dates: 5 week module during Fall 2026
 * Class Meeting Times: 11-12:15 Monday and Wednesday 
 * Class Meeting location: Marsico 2004
-* Alice Office hours: TBD
 * Pre-requisites: BCB720 and programming in Python or R
 * Instructors: Tarek Zikry (tarek@unc.edu) + Natalie Stanley (natalies@cs.unc.edu) + Alex Rubinsteyn (alex.rubinsteyn@unc.edu) + Ran Zhang (ranzhang@unc.edu)
-* TA: Alice Zhang (yanruoz@email.unc.edu)
+* Tarek's office hour: 10-11 Monday, Marsico Lobby
 
 # Course Description 
 Machine learning techniques are indispensable in biomedicine and healthcare as they allow us to gain mechanistic insights into biology or to create robust diagnostics to inform treatment decisions. This course will provide an overview of classical machine learning approaches and fundamental deep learning techniques that can be applied for robust, reproducible, and interpretable analysis of biological data. Topics covered include classical supervised and unsupervised learning, clustering, cross validation, deep learning fundamentals, explainable and interpretable machine learning, and avoiding common pitfalls involved with training and evaluating models. All concepts will be taught in a practical way to readily encourage implementation and application of methods to biological datasets. This 5 week module is meant to provide an overview of key machine learning topics that are most widely used in biology. 
@@ -19,16 +18,16 @@ Machine learning techniques are indispensable in biomedicine and healthcare as t
 Lecture notes will be linked here on the day of the lecture.  
 | Date | Day      | Topic/Notes                                                                                                                                                      | Presenter     |Notes|
 | -----|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |--------------------|
-| Oct 20 | M  | Introduction; supervised vs unsupervised learning ; loss functions; optimization basics, cross validation.                                                           | Tarek      | [Lecture 1](https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/Lecture_Notes/Lecture1.pdf)|
-| Oct 22 | W  | Statistics vs. Machine Learning; optimization for learning from data ; intro to modal     | Alex       | [Lecture 2](https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/Lecture_Notes/Lecture2.pdf)
-| Oct 27 | M  | supervised learning (logistic regression + naive bayes as examples) ; discriminative vs generative classification ;deriving a loss function from a likelihood ; learning with class imbalances ; preventing data leakage        | Natalie  -keep     | [Lecture 3](https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/Lecture_Notes/Lecture3.pdf)
-| Oct 29 | W  | Clustering and Unsupervised Validation                                                                                                                       | Tarek       | [Lecture 4]()
-| Nov 3 | M  | Graph neural networks and applications for analyzing spatial data                                                                                                                          | Natalie       | [Lecture 5](https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/Lecture_Notes/Lecture5.pdf)
-| Nov 5 | W  |  Deep learning basics | Ran   |  [Lecture 6 (notebook)](https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/Lecture_Notes/Lecture6.ipynb)
-| Nov 10 | M | Generative Modeling and Diffusions  | Tarek (Ian Thomas) | [Lecture 7]()
-| Nov 12 | W | Predicting viral vs. human protein sequences            | Alex          | [Lecture 8 (notebook)](https://modal.com/notebooks/iskandr/_/nb-OtxSj5ugii1xGIP49PKzsa)
-| Nov 17 | M |  Explainability, interpretability with Shapley values and LIME                  | Tarek  | [Lecture 9 ](https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/Lecture_Notes/xai_tmz.pdf)
-| Nov 19 | W | LLMs in biology                                                                 | Alex          |
+| Oct 19 | M  | Introduction; supervised vs unsupervised learning ; loss functions; optimization basics, cross validation.                                                           | Tarek      | [Lecture 1](https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/Lecture_Notes/Lecture1.pdf)|
+| Oct 21 | W  | Statistics vs. Machine Learning; optimization for learning from data ; intro to modal     | Alex       | [Lecture 2](https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/Lecture_Notes/Lecture2.pdf)
+| Oct 26 | M  | supervised learning (logistic regression + naive bayes as examples) ; discriminative vs generative classification ;deriving a loss function from a likelihood ; learning with class imbalances ; preventing data leakage        | Natalie  -keep     | [Lecture 3](https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/Lecture_Notes/Lecture3.pdf)
+| Oct 28 | W  | Clustering and Unsupervised Validation                                                                                                                       | Tarek (Kai Wycik)       | [Lecture 4]()
+| Nov 2 | M  | Graph neural networks and applications for analyzing spatial data                                                                                                                          | Natalie       | [Lecture 5](https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/Lecture_Notes/Lecture5.pdf)
+| Nov 4 | W  |  Deep learning basics | Ran   |  [Lecture 6 (notebook)](https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/Lecture_Notes/Lecture6.ipynb)
+| Nov 9 | M | Generative Modeling and Diffusions  | Tarek (Ian Thomas) | [Lecture 7]()
+| Nov 11 | W | Predicting viral vs. human protein sequences            | Alex          | [Lecture 8 (notebook)](https://modal.com/notebooks/iskandr/_/nb-OtxSj5ugii1xGIP49PKzsa)
+| Nov 16 | M |  Explainability, interpretability with Shapley values and LIME                  | Tarek  | [Lecture 9 ](https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/Lecture_Notes/xai_tmz.pdf)
+| Nov 18 | W | LLMs in biology                                                                 | Alex          |
 
 Of course the schedule is subject to change! 
 
