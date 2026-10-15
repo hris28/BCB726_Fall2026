@@ -24,9 +24,9 @@ Lecture notes will be linked here on the day of the lecture.
 | Oct 28 | W  | Clustering and Unsupervised Validation                                                                                                                       | Tarek (Kai Wycik)       | [Lecture 4]()
 | Nov 2 | W  |  Deep learning basics | Ran   |  [Lecture 6 (notebook)](https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/Lecture_Notes/Lecture6.ipynb)
 | Nov 4 | M  | Graph neural networks and applications for analyzing spatial data                                                                                                                          | Natalie       | [Lecture 5](https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/Lecture_Notes/Lecture5.pdf)
-| Nov 9 | M | Generative Modeling and Diffusions  | Tarek (Ian Thomas) | [Lecture 7]()
-| Nov 11 | W | Predicting viral vs. human protein sequences            | Alex          | [Lecture 8 (notebook)](https://modal.com/notebooks/iskandr/_/nb-OtxSj5ugii1xGIP49PKzsa)
-| Nov 16 | M |  Explainability, interpretability with Shapley values and LIME                  | Tarek  | [Lecture 9 ](https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/Lecture_Notes/xai_tmz.pdf)
+| Nov 9 | M | Generative Modeling and Diffusions  | Tarek (Ian Thomas) | [Lecture 6]()
+| Nov 11 | W | Predicting viral vs. human protein sequences            | Alex          | [Lecture 7 (notebook)](https://modal.com/notebooks/iskandr/_/nb-OtxSj5ugii1xGIP49PKzsa)
+| Nov 16 | M |  Explainability, interpretability with Shapley values and LIME                  | Tarek  | [Lecture 8 ](https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/Lecture_Notes/xai_tmz.pdf)
 | Nov 18 | W | LLMs in biology                                                                 | Alex          |
 
 Of course the schedule is subject to change! 
