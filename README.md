@@ -25,8 +25,8 @@ Lecture notes will be linked here on the day of the lecture.
 | Nov 2 | W  |  Deep learning basics | Ran   |  [Lecture 5 (notebook)](https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/Lecture_Notes/Lecture6.ipynb)
 | Nov 4 | M  | Graph neural networks and applications for analyzing spatial data                                                                                                                          | Natalie       | [Lecture 6](https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/Lecture_Notes/Lecture5.pdf)
 | Nov 9 | M | Generative Modeling and Diffusions  | Tarek (Ian Thomas) | [Lecture 7]()
-| Nov 11 | W | Predicting viral vs. human protein sequences            | Alex          | [Lecture 8 (notebook)](https://modal.com/notebooks/iskandr/_/nb-OtxSj5ugii1xGIP49PKzsa)
-| Nov 16 | M |  Explainability, interpretability with Shapley values and LIME                  | Tarek  | [Lecture 9 ](https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/Lecture_Notes/xai_tmz.pdf)
+| Nov 11 | M |  Explainability, interpretability with Shapley values and LIME                  | Tarek  | [Lecture 8](https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/Lecture_Notes/xai_tmz.pdf)
+| Nov 16 | W | Predicting viral vs. human protein sequences            | Alex          | [Lecture 9 (notebook)](https://modal.com/notebooks/iskandr/_/nb-OtxSj5ugii1xGIP49PKzsa)
 | Nov 18 | W | LLMs in biology                                                                 | Alex          |
 
 Of course the schedule is subject to change! 
@@ -43,9 +43,9 @@ Textbooks and resources that we have enjoyed and which you might also find usefu
 # Frequently asked questions
 Please contact Tarek Zikry (tarek@unc.edu) with any questions and I will post common questions here. 
 
-* Q : Will there be a virtual or hybrid option? --> A : Unfortunately not. All lecture notes will be available online and I am happy to meet with you to discuss lecture materials but I find that hybrid class sessions are difficult to run smoothly.
-* Q : Can I audit the course? --> A: Absolutely! Everyone is welcome. You don't need to officially ask permission.
-* Q: Are office hours required --> A: No, they are not required
+* **Q**: Will there be a virtual or hybrid option? **A** : Unfortunately not. All lecture notes will be available online and I am happy to meet with you to discuss lecture materials but I find that hybrid class sessions are difficult to run smoothly.
+* **Q**: Can I audit the course? **A**: Absolutely! Everyone is welcome. You don't need to officially ask permission.
+* **Q**: Are office hours required? **A**: No, they are not required
 
 # Course Requirements 
 To obtain full credit, students must attend 80% [8/10] of the lectures, complete the two assigned homework assignments and achieve a passing grade overall. If any students believe they may
