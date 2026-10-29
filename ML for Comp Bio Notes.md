@@ -102,3 +102,114 @@ Overall Workflow for Data-Driven Discovery via Unsupervised Learning
 ---
 10/26/26
 
+Discriminative Model
+- 
+Generative Model
+- joint distribution between our class labels and ___ data
+
+Loss function
+- we can use it to optimize the parameters of our model (via gradient descent)
+- a way to tabulate, under a current set of parameters, how wrong are our predictions.
+- will use this information to adjust our parameters and ensure more data instances are predicted accurately.
+
+Need to calculate the probability that $y^i$ = 1 and 0.
+
+z = interproduct between out weight product (w) and ($x^i$).
+
+$\hat{y^i}$
+
+Stoachastic gradient descent
+- sampling random data points from the training set to update model parameters.
+- alternative to using the entire dataset, when having large datasets
+
+We often enforce regularization on ___
+
+Might have 50 samples with 20,000 things we're measuring from them...far too many features.
+So many features measured about your training data enables more memorization of the training set and thus higher likelihood of overfitting. That kind of model would not generalize well to new data instances.
+
+There are approaches that penalize you for adding coefficients ___...
+- The simplest way to avoid this is to minimize the amount of features. A common solution is to regularize the loss function with a penalty term, which forces many coefficients to be 0.
+- Lasso looks at the correlation structure among the features (if i know feature 1, i can easily predict feature 4 or 5)
+- The way that the penalty if 
+- Lasso if you want smallest number of features
+	- very harsh and sparse
+	- there are multiple variants (e.g., group lasso, ___ lasso)
+- Ridge if you want larger number of features
+- Elastic net if you want somewhere in the middle number of features
+
+
+### Overview of a generative classifier: naive bayes
+
+Let's say our
+- x's are actually just discrete values
+- input features are binary, so they're either zero or one
+
+So first, we would like to model the joint probability of all of our observed data instances, so $x_1$ through $x_n$, given our label $y$. 
+- Another nice property of this is something called conditional independence. So this says that we can measure the joint probability of all these variables conditioned on a class label as just the product of the probability of every observed feature conditioned on our class label y.
+So basically, this is called like a factorization, and it's a very nice property. Again, that people doing like theoretical work have come up with that you can approximate this joint distribution by just doing like a factorized approach.
+
+Feature selection
+- can help prune down
+
+Important to determine what are the features that affect the outcome...
+
+Data Leakage
+- a little bit of test data that was accidentally seen in model training, which may inflate the numbers slightly.
+
+---
+
+10/28/2026
+
+Clustering Algorithms (k-means, hierarchical clustering, and spectral clustering)
+
+
+k-means repeats two steps until it settles
+Step 1: Pick k starting centers. 
+Step 2: Assign every point to its nearest center.
+Step 3: Move each center to the mean of its points.
+Step 4: Repeat 2 and 3 until no point changes cluster.
+The goal: k centers with the smallest total squared distance from each point to its center.
+
+What k-means assumes
+1. Users choose k. The algorithm returns exactly k clusters, whether or not the data has k groups.
+2. Group are round/spherical. Every point joins its nearest center, so the boundaries between clusters are straight lines. Stretched, curved or nested groups get cut apart.
+3. The start matters. Different starting centers can end in different answers.
+
+Hierarchical clustering builds a tress
+1. Start with every point as its own cluster.
+2. Merge the two closest clusters.
+3. Repeat until one cluster is left.
+4. Cut the tree at a height to get k clusters.
+The linkage decides what "closest" means: single (), ()
+
+One tree holds every k
+Cutting high gives two clusters. Cutting lower splits each of them again.
+
+Linkage defines the distances between clusters
+1. Single linkage: minimal distance between clusters. Can isolate outliers.
+2. Complete linkage: maximal distance between clusters
+3. Average linkage:
+4. Ward linkage: 
+
+Spectral clustering uses a neighbor graph
+Step 1: Connect each point to its 10 nearest neighbors.
+Step 2: Take the eigenvectors of L with the smallest eigenvalues.
+Step 3: Run k-means on the new coordinates
+- Researcher Funeuxenbourg (2010) wrote a paper on spectral clustering.
+
+Choosing settings without labels (hyperparameters, the numebr of clusters, validity indices)
+
+3 central choices
+Preprocessing: Normalization, the number of principal components, ...\
+
+Clustering has no good way to validate. Supervised learning uses cross-validation. But with clustering, there are no labels to hold out.
+
+Stability and Generalizability
+- Checking a clustering by resampling the data
+
+Stability: If we cluster a different random subsample of the cells, do we get the same clusters? ()
+Generalizability: If we train a classified on the clusters, can it predict the clusters of cells it has not seen? (Dudoit & Fridlyand 2002; Tibshirani ....)
+
+The Adjusted Rand Index (ARI) measures agreement
+- comparing two clusters
+- the ARI compares two clusterings of the same points. It checks every pair of points: are the two togetehr in both clusterings, or apart in both?

@@ -11,6 +11,30 @@
             "id": "adc72dd9936162e6",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lecture_Notes/Lecture3-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Lecture3-2025"
+            }
+          },
+          {
+            "id": "2727443461dae25a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lecture_Notes/Lecture3-2026.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Lecture3-2026"
+            }
+          },
+          {
+            "id": "1b9b57bab6a048cf",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "ML for Comp Bio Notes.md",
@@ -21,7 +45,8 @@
               "title": "ML for Comp Bio Notes"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "47e0e845badad161",
@@ -188,12 +213,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "adc72dd9936162e6",
+  "active": "1b9b57bab6a048cf",
   "lastOpenFiles": [
+    "Lecture_Notes/xai_tmz.pdf",
+    "Lecture_Notes/Lecture4.pdf",
     "Lecture_Notes/Lecture2.pdf",
-    "ML for Comp Bio Notes.md",
-    "README.md",
+    "Lecture_Notes/Lecture3-2025.pdf",
     "Lecture_Notes/Lecture1.pdf",
+    "ML for Comp Bio Notes.md",
+    "Lecture_Notes/Lecture3-2026.pdf",
+    "Lecture3-2026.pdf",
+    "README.md",
     "bcb726.png",
     "bcb726-2026.png"
   ]
