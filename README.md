@@ -21,12 +21,12 @@ Lecture notes will be linked here on the day of the lecture.
 | Oct 19 | M  | Introduction; supervised vs unsupervised learning ; loss functions; optimization basics, cross validation.                                                           | Tarek      | [Lecture 1](https://github.com/stanleyn/BCB726_Fall2026/blob/main/Lecture_Notes/Lecture1.pdf)|
 | Oct 21 | W  | Statistics vs. Machine Learning; optimization for learning from data ; intro to modal     | Alex       | [Lecture 2](https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/Lecture_Notes/Lecture2.pdf)
 | Oct 26 | M  | supervised learning (logistic regression + naive bayes as examples) ; discriminative vs generative classification ;deriving a loss function from a likelihood ; learning with class imbalances ; preventing data leakage        | Natalie  | [Lecture 3](https://github.com/stanleyn/BCB726_Fall2026/blob/main/Lecture_Notes/Lecture3-2026.pdf)
-| Oct 28 | W  | Clustering and Unsupervised Validation                                                                                                                       | Tarek (Kai Wycik)       | [Lecture 4]()
-| Nov 2 | W  |  Deep learning basics | Ran   |  [Lecture 5 (notebook)](https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/Lecture_Notes/Lecture6.ipynb)
-| Nov 4 | M  | Graph neural networks and applications for analyzing spatial data                                                                                                                          | Natalie       | [Lecture 6](https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/Lecture_Notes/Lecture5.pdf)
+| Oct 28 | W  | Clustering and Unsupervised Validation                                                                                                                       | Tarek (Kai Wycik)       | [Lecture 4](https://github.com/stanleyn/BCB726_Fall2026/blob/main/Lecture_Notes/Clustering%20validation.pdf)
+| Nov 2 | M  |  Deep learning basics | Ran   |  [Lecture 5](https://github.com/stanleyn/BCB726_Fall2026/blob/main/Lecture_Notes/Lecture5-2026.pdf)
+| Nov 4 | W  | Graph neural networks and applications for analyzing spatial data                                                                                                                          | Natalie       | [Lecture 6](https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/Lecture_Notes/Lecture5.pdf)
 | Nov 9 | M | Generative Modeling and Diffusions  | Tarek (Ian Thomas) | [Lecture 7]()
-| Nov 11 | M |  Explainability, interpretability with Shapley values and LIME                  | Tarek  | [Lecture 8](https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/Lecture_Notes/xai_tmz.pdf)
-| Nov 16 | W | Predicting viral vs. human protein sequences            | Alex          | [Lecture 9 (notebook)](https://modal.com/notebooks/iskandr/_/nb-OtxSj5ugii1xGIP49PKzsa)
+| Nov 11 | W |  Explainability, interpretability with Shapley values and LIME                  | Tarek  | [Lecture 8](https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/Lecture_Notes/xai_tmz.pdf)
+| Nov 16 | M | Predicting viral vs. human protein sequences            | Alex          | [Lecture 9 (notebook)](https://modal.com/notebooks/iskandr/_/nb-OtxSj5ugii1xGIP49PKzsa)
 | Nov 18 | W | LLMs in biology                                                                 | Alex          |
 
 Of course the schedule is subject to change! 
