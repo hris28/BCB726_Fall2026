@@ -8,45 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "adc72dd9936162e6",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Lecture_Notes/Lecture3-2025.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lecture3-2025"
-            }
-          },
-          {
-            "id": "2727443461dae25a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Lecture_Notes/Lecture3-2026.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lecture3-2026"
-            }
-          },
-          {
             "id": "1b9b57bab6a048cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "ML for Comp Bio Notes.md",
-                "mode": "source",
-                "source": false
+                "file": "Lecture_Notes/Lecture5-2026.pdf"
               },
-              "icon": "lucide-file",
-              "title": "ML for Comp Bio Notes"
+              "icon": "lucide-file-text",
+              "title": "Lecture5-2026"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,14 +188,16 @@
   },
   "active": "1b9b57bab6a048cf",
   "lastOpenFiles": [
-    "Lecture_Notes/xai_tmz.pdf",
-    "Lecture_Notes/Lecture4.pdf",
-    "Lecture_Notes/Lecture2.pdf",
-    "Lecture_Notes/Lecture3-2025.pdf",
-    "Lecture_Notes/Lecture1.pdf",
-    "ML for Comp Bio Notes.md",
-    "Lecture_Notes/Lecture3-2026.pdf",
+    "Lecture_Notes/Lecture5source-lecture12-nn.pdf",
+    "Lecture_Notes/Lecture5.pdf",
     "Lecture3-2026.pdf",
+    "Lecture_Notes/Lecture3-2026.pdf",
+    "Lecture_Notes/Lecture4.pdf",
+    "ML for Comp Bio Notes.md",
+    "Lecture_Notes/Lecture3-2025.pdf",
+    "Lecture_Notes/xai_tmz.pdf",
+    "Lecture_Notes/Lecture2.pdf",
+    "Lecture_Notes/Lecture1.pdf",
     "README.md",
     "bcb726.png",
     "bcb726-2026.png"
