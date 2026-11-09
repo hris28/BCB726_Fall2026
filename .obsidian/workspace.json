@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Lecture_Notes/Lecture5-2026.pdf"
+                "file": "Lecture_Notes/Lecture2.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Lecture5-2026"
+              "title": "Lecture2"
             }
           }
         ]
@@ -188,6 +188,8 @@
   },
   "active": "1b9b57bab6a048cf",
   "lastOpenFiles": [
+    "Lecture_Notes/Lecture6-2026.pdf",
+    "Lecture_Notes/Lecture5-2026.pdf",
     "Lecture_Notes/Lecture5source-lecture12-nn.pdf",
     "Lecture_Notes/Lecture5.pdf",
     "Lecture3-2026.pdf",
