@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Lecture_Notes/Lecture2.pdf"
+                "file": "Lecture_Notes/Clustering validation.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Lecture2"
+              "title": "Clustering validation"
             }
           }
         ]
@@ -189,8 +189,9 @@
   "active": "1b9b57bab6a048cf",
   "lastOpenFiles": [
     "Lecture_Notes/Lecture6-2026.pdf",
-    "Lecture_Notes/Lecture5-2026.pdf",
     "Lecture_Notes/Lecture5source-lecture12-nn.pdf",
+    "Lecture_Notes/Lecture2.pdf",
+    "Lecture_Notes/Lecture5-2026.pdf",
     "Lecture_Notes/Lecture5.pdf",
     "Lecture3-2026.pdf",
     "Lecture_Notes/Lecture3-2026.pdf",
@@ -198,7 +199,6 @@
     "ML for Comp Bio Notes.md",
     "Lecture_Notes/Lecture3-2025.pdf",
     "Lecture_Notes/xai_tmz.pdf",
-    "Lecture_Notes/Lecture2.pdf",
     "Lecture_Notes/Lecture1.pdf",
     "README.md",
     "bcb726.png",
